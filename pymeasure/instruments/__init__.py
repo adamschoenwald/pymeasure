@@ -44,3 +44,4 @@ from . import srs
 from . import tektronix
 from . import thorlabs
 from . import yokogawa
+from . import instrutech

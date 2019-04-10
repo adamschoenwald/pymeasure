@@ -1,0 +1,7 @@
+################################
+HP 34410A Multimeter
+################################
+
+.. autoclass:: pymeasure.instruments.instrutech.IGM401
+    :members:
+    :show-inheritance:
